@@ -1,3 +1,7 @@
+To run in CLoud 9 - SHELL: gatsby develop -p $PORT -H $IP
+https://www.youtube.com/watch?v=4Wh5mTyn5WI
+Ended @ Lesson 17: Create the Blogs with the Create Page API  – 02:01:16
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
